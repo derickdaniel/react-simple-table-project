@@ -2,8 +2,9 @@
 
 **Installation**
 -----------------
-npm install --save-dev @types/react-dom
-npm install simple-table-core
+1. npm install --save-dev @types/react-dom
+
+2. npm install simple-table-core
 
 **Start server**
 ----------------
